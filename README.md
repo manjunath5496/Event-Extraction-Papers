@@ -6,192 +6,187 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(1).pdf" style="text-decoration:none;">Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(1).pdf" style="text-decoration:none;">The Origins of Telicity</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(2).pdf" style="text-decoration:none;">Multimodal Medical Image Retrieval based on Latent Topic Modeling</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(2).pdf" style="text-decoration:none;">SupervisedWithin-Document Event Coreference using Information Propagation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(3).pdf" style="text-decoration:none;">Unifying and Merging Well-trained Deep Neural Networks for Inference Stage</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(4).pdf" style="text-decoration:none;">Semi-Supervised Multimodal Deep Learning for RGB-D Object Recognition</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(5).pdf" style="text-decoration:none;">Microsoft COCO: Common Objects in Context</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(6).pdf" style="text-decoration:none;">Deep Fragment Embeddings for Bidirectional Image Sentence Mapping</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(7).pdf" style="text-decoration:none;">Show and Tell: A Neural Image Caption Generator</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(3).pdf" style="text-decoration:none;">Nominal Reference, Temporal
+Constitution and Quantification in Event Semantics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(4).pdf" style="text-decoration:none;">Event Detection via Recurrent Neural Network and Argument Prediction</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(5).pdf" style="text-decoration:none;">Joint Modeling of Argument Identification and Role Determination in Chinese Event Extraction with Discourse- evel Information</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(6).pdf" style="text-decoration:none;">F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(7).pdf" style="text-decoration:none;">A Unified Model for Financial Event Classification, Detection and Summarization</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(8).pdf" style="text-decoration:none;"> Deep Visual-Semantic Alignments for Generating Image Descriptions </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(9).pdf" style="text-decoration:none;">A Dataset for Movie Description</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(8).pdf" style="text-decoration:none;"> SupervisedWithin-Document Event Coreference using Information Propagation </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(9).pdf" style="text-decoration:none;">A Linguistic Resource for Discovering Event Structures and Resolving Event Coreference</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(10).pdf" style="text-decoration:none;">Show, Attend and Tell: Neural Image Caption Generation with Visual Attention</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(11).pdf" style="text-decoration:none;">What's Cookin'? Interpreting Cooking Videos using Text, Speech and Vision</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(12).pdf" style="text-decoration:none;">VQA: Visual Question Answering</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(13).pdf" style="text-decoration:none;">Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(10).pdf" style="text-decoration:none;">Extracting Entities and Events as a Single Task Using a Transition-Based Neural Model</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(11).pdf" style="text-decoration:none;">Using a sledgehammer to crack a nut?
+Lexical diversity and event coreference resolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(12).pdf" style="text-decoration:none;">CASIE: Extracting Cybersecurity Event Information from Text</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(13).pdf" style="text-decoration:none;">Event Extraction Using Distant Supervision</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(14).pdf" style="text-decoration:none;">Multimodal Deep Learning for Robust RGB-D Object Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(14).pdf" style="text-decoration:none;">SinoCoreferencer: An End-to-End Chinese Event Coreference Resolver</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(15).pdf" style="text-decoration:none;">Order-Embeddings of Images and Language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(15).pdf" style="text-decoration:none;">Word sense disambiguation for event trigger word detection in biomedicine</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(16).pdf" style="text-decoration:none;">VisualWord2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(16).pdf" style="text-decoration:none;">Wide coverage biomedical event extraction using multiple partially overlapping corpora</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(17).pdf" style="text-decoration:none;">MovieQA: Understanding Stories in Movies through Question-Answering</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(17).pdf" style="text-decoration:none;">Semi-supervised method for biomedical event extraction</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(18).pdf" style="text-decoration:none;">Hollywood in Homes: Crowdsourcing Data
-Collection for Activity Understanding</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(18).pdf" style="text-decoration:none;">Scale Up Event Extraction Learning via Automatic Training Data Generation</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(19).pdf" style="text-decoration:none;">Generative Adversarial Text to Image Synthesis</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(19).pdf" style="text-decoration:none;">Event Detection with Neural Networks: A Rigorous Empirical Evaluation</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(20).pdf" style="text-decoration:none;">Learning to Communicate with
-Deep Multi-Agent Reinforcement Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(20).pdf" style="text-decoration:none;">Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(21).pdf" style="text-decoration:none;">Review Networks for Caption Generation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(22).pdf" style="text-decoration:none;">Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(23).pdf" style="text-decoration:none;">Towards Transparent AI Systems:
-Interpreting Visual Question Answering Models</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(21).pdf" style="text-decoration:none;">One for All: Neural Joint Modeling of Entities and Events</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(22).pdf" style="text-decoration:none;">Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(23).pdf" style="text-decoration:none;">Cost-sensitive Regularization for Label Confusion-aware Event Detection</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(24).pdf" style="text-decoration:none;">Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(24).pdf" style="text-decoration:none;">Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(25).pdf" style="text-decoration:none;">SoundNet: Learning Sound
-Representations from Unlabeled Video</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(26).pdf" style="text-decoration:none;">Visual Dialog</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(27).pdf" style="text-decoration:none;">Multi-Agent Cooperation and the Emergence of (Natural) Language</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(25).pdf" style="text-decoration:none;">Exploiting the Matching Information in the Support Set for Few Shot Event Classification</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(28).pdf" style="text-decoration:none;">Deep Voice: Real-time Neural Text-to-Speech</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(28).pdf" style="text-decoration:none;">Cross-media Structured Common Space for Multimedia Event Extraction</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(29).pdf" style="text-decoration:none;">Zero-Shot Learning - The Good, the Bad and the Ugly </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(30).pdf" style="text-decoration:none;">Emergence of Grounded Compositional Language in Multi-Agent Populations</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(30).pdf" style="text-decoration:none;">Extracting COVID-19 Events from Twitter</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(31).pdf" style="text-decoration:none;">Learning Robust Visual-Semantic Embeddings</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(32).pdf" style="text-decoration:none;">Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(33).pdf" style="text-decoration:none;">Towards Building Large Scale Multimodal Domain-Aware Conversation Systems</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(34).pdf" style="text-decoration:none;">Generating Descriptions with Grounded and Co-Referenced People</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(35).pdf" style="text-decoration:none;">Deep Multimodal Representation Learning from Temporal Data</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(36).pdf" style="text-decoration:none;">Learning to Reason: End-to-End Module Networks for Visual Question Answering</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(37).pdf" style="text-decoration:none;">End-to-End Multimodal Emotion Recognition using Deep Neural Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(38).pdf" style="text-decoration:none;">Deep Voice 2: Multi-Speaker Neural Text-to-Speech</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(39).pdf" style="text-decoration:none;">Gated-Attention Architectures for Task-Oriented Language Grounding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(40).pdf" style="text-decoration:none;">Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(41).pdf" style="text-decoration:none;">SCAN: Learning Hierarchical Compositional Visual Concepts</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(42).pdf" style="text-decoration:none;">Tensor Fusion Network for Multimodal Sentiment Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(43).pdf" style="text-decoration:none;">Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(44).pdf" style="text-decoration:none;">Localizing Moments in Video with Natural Language</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(45).pdf" style="text-decoration:none;">Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(46).pdf" style="text-decoration:none;">Cross-modal Recurrent Models for Weight Objective Prediction from Multimodal Time-series Data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(47).pdf" style="text-decoration:none;">Fooling Vision and Language Models
-Despite Localization and Attention Mechanism</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(48).pdf" style="text-decoration:none;">Emergent Translation in Multi-Agent Communication</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(49).pdf" style="text-decoration:none;">Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(50).pdf" style="text-decoration:none;">Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(51).pdf" style="text-decoration:none;">Learning Multi-ModalWord Representation Grounded in Visual Context</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(52).pdf" style="text-decoration:none;">Look, Imagine and Match:
-Improving Textual-Visual Cross-Modal Retrieval with Generative Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(53).pdf" style="text-decoration:none;">Neural Motifs: Scene Graph Parsing with Global Context</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(54).pdf" style="text-decoration:none;">Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(55).pdf" style="text-decoration:none;">Video Captioning via Hierarchical Reinforcement Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(56).pdf" style="text-decoration:none;">Embodied Question Answering </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(57).pdf" style="text-decoration:none;">Don't Just Assume; Look and Answer:
-Overcoming Priors for Visual Question Answering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(58).pdf" style="text-decoration:none;">Grounding Referring Expressions in Images by Variational Context</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(59).pdf" style="text-decoration:none;">Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(60).pdf" style="text-decoration:none;">Semi-supervised Multimodal Hashing </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(61).pdf" style="text-decoration:none;"> Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(62).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(63).pdf" style="text-decoration:none;">A probabilistic framework for multi-view feature learning with many-to-many associations via neural networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(64).pdf" style="text-decoration:none;">Multimodal Generative Models for Scalable Weakly-Supervised Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(65).pdf" style="text-decoration:none;">Learning to Count Objects in Natural Images for Visual Question Answering </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(66).pdf" style="text-decoration:none;">Multimodal Explanations: Justifying Decisions and Pointing to the Evidence</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(67).pdf" style="text-decoration:none;">Joint Event Detection and Description in Continuous Video Streams</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(68).pdf" style="text-decoration:none;">Learning the Joint Representation of Heterogeneous Temporal Events for Clinical Endpoint Prediction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(69).pdf" style="text-decoration:none;">Look Before You Leap:
-Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
+Argument-Aware Pooling for Event Detection</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(70).pdf" style="text-decoration:none;">Datasheets for Datasets</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(71).pdf" style="text-decoration:none;">Neural Baby Talk</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(72).pdf" style="text-decoration:none;">Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(73).pdf" style="text-decoration:none;">Seeing Voices and Hearing Faces: Cross-modal biometric matching</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(74).pdf" style="text-decoration:none;">Jointly Discovering Visual Objects and SpokenWords from Raw Sensory Input</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(75).pdf" style="text-decoration:none;">Image Generation from Scene Graphs</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(76).pdf" style="text-decoration:none;">Multilevel Language and Vision Integration for Text-to-Clip Retrieval</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(77).pdf" style="text-decoration:none;">Learning to Color from Language</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
+based on Cross-Event Propagation</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(78).pdf" style="text-decoration:none;">Attention Based Natural Language Grounding by Navigating Virtual Environment</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(79).pdf" style="text-decoration:none;">No Metrics Are Perfect:
-Adversarial Reward Learning for Visual Storytelling</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(80).pdf" style="text-decoration:none;">Multi-modal Approach for Affective Computing</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(81).pdf" style="text-decoration:none;">Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(82).pdf" style="text-decoration:none;">Dialog-based Interactive Image Retrieval</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(83).pdf" style="text-decoration:none;">Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(84).pdf" style="text-decoration:none;">Using Syntax to Ground Referring Expressions in Natural Images</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(85).pdf" style="text-decoration:none;">Efficient Low-rank Multimodal Fusion with Modality-Specific Factors</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(86).pdf" style="text-decoration:none;">Learning Factorized Multimodal Representations</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(87).pdf" style="text-decoration:none;">Talk the Walk: Navigating New York City through Grounded Dialogue</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(88).pdf" style="text-decoration:none;">Evolving Multimodal Robot Behavior via Many Stepping Stones with the Combinatorial Multi-Objective Evolutionary Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(89).pdf" style="text-decoration:none;">Disjoint Mapping Network for Cross-modal Matching of Voices and Faces</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(90).pdf" style="text-decoration:none;"> Multimodal Language Analysis with Recurrent Multistage Fusion</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(91).pdf" style="text-decoration:none;">Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(92).pdf" style="text-decoration:none;">RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(93).pdf" style="text-decoration:none;"> Embedding Multimodal Relational Data for Knowledge Base Completion</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(94).pdf" style="text-decoration:none;">Visual Coreference Resolution in Visual Dialog using Neural Module Networks</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(95).pdf" style="text-decoration:none;">Deep Audio-Visual Speech Recognition</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(96).pdf" style="text-decoration:none;">From Audio to Semantics: Approaches to end-to-end spoken language understanding</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(97).pdf" style="text-decoration:none;">Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
+Information Extraction from Semi-Structured and Free Text</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(98).pdf" style="text-decoration:none;">MELD: A Multimodal Multi-Party Dataset
-for Emotion Recognition in Conversations</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(99).pdf" style="text-decoration:none;">Overcoming Language Priors in Visual Question Answering with Adversarial Regularization</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(100).pdf" style="text-decoration:none;">Model Cards for Model Reporting</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(97).pdf" style="text-decoration:none;">Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(98).pdf" style="text-decoration:none;">Cross-document Event Coreference Resolution based on Cross-media Features</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(99).pdf" style="text-decoration:none;">Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Event-Extraction-Papers/blob/master/ev(101).pdf" style="text-decoration:none;">Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks</a></li> 
   
